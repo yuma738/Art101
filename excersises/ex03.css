@@ -1,0 +1,33 @@
+.test-div {
+    background: orange; 
+    padding: 20px; 
+    margin : 20px; 
+}
+.test-div h2{
+    color: plum;
+
+}
+.test-div :hover {
+    background:pink;
+}
+h1, h2, h3, h4 {
+    text-decoration: underline;
+
+}
+.test-div {
+    color: aquamarine;
+}
+.test-div .special {
+    background: peachpuff
+}
+#my_flex{
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+#split{
+    display:flex;
+    flex-direction:column-reverse;
+
+}
