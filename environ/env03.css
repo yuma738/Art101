@@ -1,0 +1,31 @@
+BODY { background: #ffffff; padding: 50px;} 
+H1, H2, H3 {color: #05df4a; font-family: sans-serif;}
+#mypic {width: 200px;}
+#background {width:500px;}
+#anotherpic {width: 200px }
+body {
+ background-image: url('sekai.png');
+}
+.test-div{
+    background: lightblue;
+    padding: 20px; 
+    margin: 20px; 
+}
+.test-div h2{
+    color: lightblue; 
+
+}
+.test-div :hover {
+    background: orange; 
+}
+H1, H2, H3 {
+    text-decoration: underline; 
+}
+.test-div {
+    color: red; 
+}
+
+ /*background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+
