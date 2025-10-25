@@ -6,10 +6,13 @@ H1, H2, H3 {color: #05df4a; font-family: sans-serif;}
 body {
  background-image: url('sekai.png');
 }
-
+body {
+ background-image: url('sekai2.png');
+}
 
  /*background-repeat: no-repeat;
  background-position: center center;
  background-attachment: fixed;
+
 
 
