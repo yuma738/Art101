@@ -39,6 +39,18 @@ document.getElementById('createBoxesBtn').addEventListener('click', function() {
 
         boxContainer.appendChild(box);
     }
+
+    
 });
+   // Select the body element
+    const bodyElement = document.body; 
+
+    // Select a div by its ID
+    const myDiv = document.getElementById('myDiv');  
+      // Change the background image of the body
+    bodyElement.style.backgroundImage = "url('sekai.png')";
+
+    // Change the background image of a specific div
+    myDiv.style.backgroundImage = "url('sekai2.png')";
 
 
