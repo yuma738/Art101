@@ -1,0 +1,28 @@
+BODY { background: #ffffff; padding: 50px;} 
+H1, H2, H3 {color: #05df4a; font-family: sans-serif;}
+#mypic {width: 200px;}
+#background {width:500px;}
+#anotherpic {width: 200px }
+body {
+ background-image: url('sekai.png');
+}
+
+body {
+ background-image: url('sekai2.png');
+}
+   .box-container {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .box {
+            width: 80px;
+            height: 80px;
+            border: 1px solid #ccc;
+        }
+
+/* Add more color classes as needed */
+ /*background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+
