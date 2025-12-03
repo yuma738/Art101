@@ -30,3 +30,5 @@ $("#add-creature").click(
         $("#crName").val("");
 
     });
+
+     
